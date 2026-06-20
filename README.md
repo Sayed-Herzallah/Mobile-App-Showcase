@@ -5,8 +5,7 @@ A beautiful, high-converting product landing page designed to feature and market
 ---
 
 ## 📌 Overview
-
-**Mobile-App-Showcase** provides a presentation portal for applications. It incorporates app screenshots, user testimonials, features grids, and download store badges in a responsive layout.
+Mobile-App-Showcase provides a landing page template for applications. It incorporates app screenshots, user testimonials, features grids, and download store badges in a responsive layout.
 
 ---
 
@@ -14,27 +13,28 @@ A beautiful, high-converting product landing page designed to feature and market
 
 | Technology | Purpose |
 | ---------- | ------- |
-| HTML5      | Landing page sections |
-| CSS3       | Gradients, animations, layout structures |
+| HTML5      | Landing page layouts and sections |
+| CSS3       | CSS flexbox layouts, gradients, and scroll animations |
 | JavaScript | Interactive sliders and reviews |
 
 ---
 
-## 🚀 Key Features
-
+## 🚀 Core Features
 * 📱 **Device Frame UI:** Display app screenshots inside phone mockups.
 * ⚡ **Scroll Animations:** Fluid transitions on page scroll.
 * 🌐 **Responsive:** Looks beautiful on mobile screens, tablets, and desktops.
 
 ---
 
-## 👨&zwj;💻 Author
-
-**Sayed Herzallah**  
-Frontend Developer
+## ⚙️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sayed-Herzallah/Mobile-App-Showcase.git
+   ```
+2. Open `index.html` in your browser.
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a star on GitHub.
+## 👨‍💻 Author
+**Sayed Herzallah**  
+Full Stack Developer
